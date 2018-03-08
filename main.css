@@ -1,0 +1,38 @@
+body * {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  width:80%;
+}
+
+img {
+  width: 40%;
+}
+
+.right {
+  float: right;
+  margin-left: 10px;
+}
+
+.right-clear {
+  clear:right;
+}
+
+.left {
+  float: left;
+  margin-right: 10px;
+}
+
+.left-clear {
+  clear: left;
+}
+
+/* your styles go here! */
